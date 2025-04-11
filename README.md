@@ -119,7 +119,7 @@ to_gbq(df_export,
        project_id='seu-projeto-gcp',
        if_exists='replace')
 
-
+```
 ## Conclusão
 
 Através da análise dos dados de exportação do Brasil, foi possível identificar que produtos como carnes e soja estão entre os mais exportados, e países como China e EUA estão entre os principais compradores.
